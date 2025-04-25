@@ -1,5 +1,5 @@
 # Example Boolean Model
-NUMBER OF VARIABLES: 4
+NUMBER OF VARIABLES: 5
 NUMBER OF STATES :   2
 
 M  = B
